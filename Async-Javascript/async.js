@@ -7,7 +7,7 @@ const posts =[
 
 const listpost =() => {
 posts.map((post) => {
-    console.log(post.title,post.title)
+    console.log(post.title,post.body)
 })
 }
 
