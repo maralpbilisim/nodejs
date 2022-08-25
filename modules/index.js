@@ -21,7 +21,7 @@ const fs = require('fs');
 // fs.appendFile('example.txt', '\n Fullstack Developer olmayı', 'utf8', (err,data) =>{
 //     if (err) console.log(err);
 //     );
-// });console.log('Yeni veri eklendi'
+// });console.log('Yeni veri eklendi')
 
 
 
